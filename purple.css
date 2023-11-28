@@ -436,11 +436,11 @@ footer {
 /* 代码框阴影 */
 
 
-/* #write pre.md-fences {
+#write pre.md-fences {
   display: block;
   -webkit-overflow-scrolling: touch;
   box-shadow: var(--shadow);
-} */
+}
 
 .cm-s-inner .cm-variable {
     color: var(--text-color);
